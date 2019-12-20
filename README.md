@@ -34,7 +34,7 @@ Dock the PL/SQL Cop output window on your favorite position within SQL Developer
 
 ## Configure Update Center
 
-Click the “Help” menu and select “Check for Updates…”. Press the “Add” button to register the update center http://update.salvis.com/ . If you have troubles to configure the proxy settings, because your company requires some additional authentication or similar, then I suggest to download PL/SQL Cop for SQL Developer via the “Download” button below and use the “Install From Local File” option.
+Click the `Help` menu and select `Check for Updates…`. Press the `Add` button to register the update center http://update.salvis.com/ . If you have troubles to configure the proxy settings, because your company requires some additional authentication or similar, then I suggest to download PL/SQL Cop for SQL Developer from [here](https://github.com/Trivadis/plsql-cop-sqldev/releases) and use the `Install From Local File` option.
 
 ![Update Center](images/salvis-update-center.png)
 
