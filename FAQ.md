@@ -6,7 +6,7 @@ Maybe you’ve run into a SQL Developer bug on macOS. See [this blog post](https
 
 ## I cannot install any extension on Windows
 
-Have you installed SQL Developer in “C:\Program Files” or “C:\Program Files(x86)”? In this case the files are read-only for a standard Windows user.
+Have you installed SQL Developer in `C:\Program Files` or `C:\Program Files(x86)`? In this case the files are read-only for a standard Windows user.
 
 To solve the problem start SQL Developer as Administrator or install SQL Developer in an user folder. While the former requires local administrator rights, the latter is always feasible.
 
