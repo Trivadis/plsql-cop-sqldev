@@ -22,7 +22,7 @@ Please update to SQL Developer 4.x or later since this is a prerequisite for thi
 
 ## What are the limitations?
 
-See [parser limitations](https://github.com/Trivadis/plsql-cop-cli/blob/master/parser-limitations.md) and [validator limitations](https://github.com/Trivadis/plsql-cop-cli/blob/master/validator-limitations.md).
+See [parser limitations](https://github.com/Trivadis/plsql-cop-cli/blob/main/parser-limitations.md) and [validator limitations](https://github.com/Trivadis/plsql-cop-cli/blob/main/validator-limitations.md).
 
 ## What has changed in the latest version?
 
