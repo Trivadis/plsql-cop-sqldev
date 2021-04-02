@@ -28,14 +28,14 @@ See [parser limitations](https://github.com/Trivadis/plsql-cop-cli/blob/main/par
 
 See the [release information](https://github.com/Trivadis/plsql-cop-sqldev/releases) for each version.
 
-## What is the difference between "PL/SQL Cop" and "PL/SQL Cop for SQL Developer"?
+## What is the difference between "db\* CODECOP" and "db\* CODECOP for SQL Developer"?
 
-*PL/SQL Cop* is a standalone command line utility. It processes SQL*Plus scripts within a directory tree and produces an HTML report and an Excel workbook. It reports metrics on file and PL/SQL unit level as well as violations of the [Trivadis PL/SQL & SQL Coding Guidelines Version 3.6](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v3.6/).
+*db\* CODECOP* is a standalone command line utility. It processes SQL*Plus scripts within a directory tree and produces an HTML report and an Excel workbook. It reports metrics on file and PL/SQL unit level as well as violations of the [Trivadis PL/SQL & SQL Coding Guidelines Version 3.6](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v3.6/).
 
-*PL/SQL Cop for SQL Developer* is a cost-free extension to Oracle’s SQL Developer. It processes the content of an editor window and produces a HTML report which is similar to the one of PL/SQL Cop but reduced and adapted to the scope of a single editor window. Additionally the violations of the [Trivadis PL/SQL & SQL Coding Guidelines Version 3.6](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v3.6/) are presented in a dedicated tab pane linked to the editor window to support quick navigation to the corresponding code.
+*db\* CODECOP for SQL Developer* is a cost-free extension to Oracle’s SQL Developer. It processes the content of an editor window and produces a HTML report which is similar to the one of db\* CODECOP but reduced and adapted to the scope of a single editor window. Additionally the violations of the [Trivadis PL/SQL & SQL Coding Guidelines Version 3.6](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v3.6/) are presented in a dedicated tab pane linked to the editor window to support quick navigation to the corresponding code.
 
 ## What are the licensing terms?
 
-The preview/trial version of PL/SQL Cop is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. You may obtain a copy of the License at https://creativecommons.org/licenses/by-nc-nd/3.0/.
+The preview/trial version of db\* CODECOP is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. You may obtain a copy of the License at https://creativecommons.org/licenses/by-nc-nd/3.0/.
 
 ![CC-BY_NC-ND](images/CC-BY-NC-ND.png)
