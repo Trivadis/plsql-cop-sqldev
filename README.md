@@ -1,10 +1,10 @@
-# PL/SQL Cop for SQL Developer
+# db\* CODECOP for SQL Developer
 
 ## Introduction
 
-Trivadis PL/SQL Cop for SQL Developer is a free extension to check an editor content for compliance violations of the [Trivadis PL/SQL & SQL Coding Guidelines Version 3.6](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v3.6/).
+db\* CODECOP for SQL Developer is a free extension to check an editor content for compliance violations of the [Trivadis PL/SQL & SQL Coding Guidelines Version 4.0](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v4.0/).
 
-PL/SQL Cop calculates metrics per PL/SQL unit, such as:
+db\* CODECOP calculates metrics per PL/SQL unit, such as:
 
 - McCabe’s cyclomatic complexity
 - Halstead’s volume
@@ -28,13 +28,13 @@ Navigate through the issues using the cursor keys to highlight the related code 
 
 ![Issues](images/tvdcc-sqldev-issues.png)
 
-Dock the PL/SQL Cop output window on your favorite position within SQL Developer and click on the report tab to reveal some additional metrics. Open the report in an external browser to print or save the report.
+Dock the db\* CODECOP output window on your favorite position within SQL Developer and click on the report tab to reveal some additional metrics. Open the report in an external browser to print or save the report.
 
 ![Report](images/tvdcc-sqldev-report.png)
 
 ## Configure Update Center
 
-Click the `Help` menu and select `Check for Updates…`. Press the `Add` button to register the update center http://update.salvis.com/ . If you have troubles to configure the proxy settings, because your company requires some additional authentication or similar, then I suggest to download PL/SQL Cop for SQL Developer from [here](https://github.com/Trivadis/plsql-cop-sqldev/releases) and use the `Install From Local File` option.
+Click the `Help` menu and select `Check for Updates…`. Press the `Add` button to register the update center http://update.salvis.com/ . If you have troubles to configure the proxy settings, because your company requires some additional authentication or similar, then I suggest to download db\* CODECOP for SQL Developer from [here](https://github.com/Trivadis/plsql-cop-sqldev/releases) and use the `Install From Local File` option.
 
 ![Update Center](images/salvis-update-center.png)
 
@@ -56,10 +56,10 @@ see [Frequently Ased Questions](FAQ.md).
 
 ## Further Information
 
-Please find further information about PL/SQL Cop on the [Trivadis](https://www.trivadis.com/en/plsql-cop) website.
+Please find further information about db\* CODECOP on the [Trivadis](https://www.trivadis.com/en/plsql-cop) website.
 
 ## License
 
-PL/SQL Cop for SQL Developer is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. You may obtain a copy of the License at https://creativecommons.org/licenses/by-nc-nd/3.0/.
+db\* CODECOP for SQL Developer is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. You may obtain a copy of the License at https://creativecommons.org/licenses/by-nc-nd/3.0/.
 
 ![CC-BY_NC-ND](images/CC-BY-NC-ND.png)
