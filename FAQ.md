@@ -10,6 +10,24 @@ Have you installed SQL Developer in `C:\Program Files` or `C:\Program Files(x86)
 
 To solve the problem start SQL Developer as Administrator or install SQL Developer in an user folder. While the former requires local administrator rights, the latter is always feasible.
 
+## I cannot install any extension on Linux
+
+The installation directory of SQL Developer is by default write-protected. As a result the installation process of any extension will fail.
+
+To clean up the failed installation, close SQL Developer and then remove the system cache folder with the following command in a terminal window (the `*` is a placeholder for the SQL Developer version):
+
+```bash
+sudo rm -r $HOME/.sqldeveloper/system*/system_cache
+```
+
+To install an extension:
+
+1. close SQL Developer
+2. open a terminal and run `sudo sqldeveloper`
+3. install the extension(s) in SQL Developer
+4. close SQL Developer
+5. restart SQL Developer as normal user
+
 ## I’ve got errors in the extensions log after installation. What’s wrong?
 
 You are probably using an outdated version of SQL Developer. In this case you see after a restart an error message in the Extensions-Log similar to the following:
