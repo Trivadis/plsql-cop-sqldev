@@ -46,10 +46,6 @@ You find all releases and release information [here](https://github.com/Trivadis
 
 see [Frequently Ased Questions](FAQ.md).
 
-## Further Information
-
-Please find further information about db\* CODECOP on the [Trivadis](https://www.trivadis.com/en/dbstar) website.
-
 ## License
 
 db\* CODECOP for SQL Developer is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. You may obtain a copy of the License at https://creativecommons.org/licenses/by-nc-nd/3.0/.
