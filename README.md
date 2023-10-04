@@ -2,7 +2,7 @@
 
 ## Introduction
 
-db\* CODECOP for SQL Developer is a **free extension** to check an editor content for compliance violations of the [Trivadis PL/SQL & SQL Coding Guidelines Version 4.2](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v4.2/).
+db\* CODECOP for SQL Developer is a **free extension** to check an editor content for compliance violations of the [Trivadis PL/SQL & SQL Coding Guidelines Version 4.3](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v4.3/).
 
 db\* CODECOP calculates metrics per PL/SQL unit, such as:
 
