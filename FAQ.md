@@ -54,6 +54,6 @@ See the [release information](https://github.com/Trivadis/plsql-cop-sqldev/relea
 
 ## What are the licensing terms?
 
-The preview/trial version of db\* CODECOP is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. You may obtain a copy of the License at https://creativecommons.org/licenses/by-nc-nd/3.0/.
+db\* CODECOP for SQL Developer is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. You may obtain a copy of the License at https://creativecommons.org/licenses/by-nc-nd/3.0/.
 
 ![CC-BY_NC-ND](images/CC-BY-NC-ND.png)
